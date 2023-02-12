@@ -1,4 +1,4 @@
-# @ywbird/neodgm-pro
+# neodgm-pro
 
 ## Install
 
