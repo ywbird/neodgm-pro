@@ -28,7 +28,7 @@ require('neodgm-pro');
 
 Insert following HTML in `<head>` tag.
 
-```
+```html
 <link rel="stylesheet" href="https://unpkg.com/neodgm-pro/index.css" />
 ```
 
