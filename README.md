@@ -21,10 +21,12 @@ import 'neodgm-pro';
 or
 
 ```js
-require('neodgm-pro')
+require('neodgm-pro');
 ```
 
 ## HTML Usage
+
+Insert following HTML in `<head>` tag.
 
 ```
 <link rel="stylesheet" href="https://unpkg.com/neodgm-pro/index.css" />
