@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Neo둥근모 Pro';
+  src: local('NeoDunggeunmo Pro '), local('NeoDunggeunmo Pro'),
+    url(./neodgm_pro.woff2) format('woff2'),
+    url(./neodgm_pro.woff) format('woff'),
+    url(./neodgm_pro.ttf) format('truetype');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Neo둥근모Pro';
+  src: local('NeoDunggeunmo Pro '), local('NeoDunggeunmo Pro'),
+    url(./neodgm_pro.woff2) format('woff2'),
+    url(./neodgm_pro.woff) format('woff'),
+    url(./neodgm_pro.ttf) format('truetype');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'NeoDunggeunmo Pro';
+  src: local('NeoDunggeunmo Pro '), local('NeoDunggeunmo Pro'),
+    url(./neodgm_pro.woff2) format('woff2'),
+    url(./neodgm_pro.woff) format('woff'),
+    url(./neodgm_pro.ttf) format('truetype');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'neodgm-pro';
+  src: local('NeoDunggeunmo Pro '), local('NeoDunggeunmo Pro'),
+    url(./neodgm_pro.woff2) format('woff2'),
+    url(./neodgm_pro.woff) format('woff'),
+    url(./neodgm_pro.ttf) format('truetype');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}

@@ -1,0 +1,12 @@
+{
+  "font-family": "Neo둥근모 Pro",
+  "version": "0.2.0",
+  "files": [
+    {
+      "filename": "neodgm_code.ttf",
+      "weight": 300,
+      "style": "normal"
+    }
+  ],
+  "license_link": "https://github.com/neodgm/neodgm-pro/blob/main/LICENSE.txt"
+}
